@@ -1,1 +1,1 @@
-print "Good morning"
+puts "Good morning"
